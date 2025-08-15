@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @femyfede
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning about data scientist 
-- 💞️ I’m looking to collaborate on all social media
-- 📫 How to reach me IG femyfede,TIKTOK @femy-fede and youtube @FedeMax
-<!---
-femyfede/femyfede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @femyfede
+👀 I’m passionate about Internet of Things (IoT), Machine Learning (ML), and innovative tech solutions
+🌱 I’m currently exploring AI-powered IoT systems, edge computing, and data science
+💞️ I’m looking to collaborate on IoT projects, AI/ML applications, and smart automation solutions
+📫 Reach me on:
+  📷 Instagram: @femyfede
+  🎵 TikTok: @femy-fede
+  ▶️ YouTube: @FedeMax
